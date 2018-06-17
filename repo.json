@@ -1,0 +1,149 @@
+﻿{
+  "reponame": "Pokérepo",
+  "repologo": "https://pokerepo.karthik99999.cf/favicon/android-chrome-256x256.png",
+  "repoauthor": "Karthik99999",
+  "repodesc": "All of your favorite Pokemon games & ROM hacks in one place! Go to pokerepo.karthik99999.cf for things about the repo.",
+  "categories": [
+    {
+      "categoryname": "GBA",
+      "games": [
+        {
+          "name": "Pokémon Fire Red",
+          "link": "https://pokerepo.karthik99999.cf/roms/PokemonFireRed.gba",
+          "boxart": "https://pokerepo.karthik99999.cf/boxarts/FireRed.png",
+          "system": "GBA"
+        },
+        {
+          "name": "Pokémon Leaf Green",
+          "link": "https://pokerepo.karthik99999.cf/roms/PokemonLeafGreen.gba",
+          "boxart": "https://pokerepo.karthik99999.cf/boxarts/LeafGreen.jpeg",
+          "system": "GBA"
+        },
+        {
+          "name": "Pokémon Ruby",
+          "link": "https://pokerepo.karthik99999.cf/roms/PokemonRuby.gba",
+          "boxart": "https://pokerepo.karthik99999.cf/boxarts/Ruby.jpeg",
+          "system": "GBA"
+        },
+        {
+          "name": "Pokémon Sapphire",
+          "link": "https://pokerepo.karthik99999.cf/roms/PokemonSapphire.gba",
+          "boxart": "https://pokerepo.karthik99999.cf/boxarts/Sapphire.jpeg",
+          "system": "GBA"
+        },
+        {
+          "name": "Pokémon Emerald",
+          "link": "https://pokerepo.karthik99999.cf/roms/PokemonEmerald.gba",
+          "boxart": "https://pokerepo.karthik99999.cf/boxarts/Emerald.jpg",
+          "system": "GBA"
+        },
+        {
+          "name": "Pokémon Mystery Dungeon: Red Rescue Team",
+          "link": "https://www.dropbox.com/s/35drtkwffhrs3zk/PokemonMysteryDungeonRedRescueTeam.gba?dl=1",
+          "boxart": "https://pokerepo.karthik99999.cf/boxarts/RedRescueTeam.jpg",
+          "system": "GBA"
+        }
+        ]
+    },
+    {
+      "categoryname": "GBC/GB",
+      "games": [
+        {
+          "name": "Pokémon Silver",
+          "link": "https://pokerepo.karthik99999.cf/roms/PokemonSilver.gbc",
+          "boxart": "https://pokerepo.karthik99999.cf/boxarts/Silver.jpg",
+          "system": "GBC"
+        },
+        {
+          "name": "Pokémon Gold",
+          "link": "https://pokerepo.karthik99999.cf/roms/PokemonGold.gbc",
+          "boxart": "https://pokerepo.karthik99999.cf/boxarts/Gold.jpg",
+          "system": "GBC"
+        },
+        {
+          "name": "Pokémon Crystal",
+          "link": "https://pokerepo.karthik99999.cf/roms/PokemonCrystal.gbc",
+          "boxart": "https://pokerepo.karthik99999.cf/boxarts/Crystal.jpg",
+          "system": "GBC"
+        },
+        {
+          "name": "Pokémon Yellow",
+          "link": "https://pokerepo.karthik99999.cf/roms/PokemonYellow.gbc",
+          "boxart": "https://pokerepo.karthik99999.cf/boxarts/Yellow.jpg",
+          "system": "GBC"
+        },
+        {
+          "name": "Pokémon Red",
+          "link": "https://pokerepo.karthik99999.cf/roms/PokemonRed.gb",
+          "boxart": "https://pokerepo.karthik99999.cf/boxarts/Red.jpg",
+          "system": "GB"
+        },
+        {
+          "name": "Pokémon Blue",
+          "link": "https://pokerepo.karthik99999.cf/roms/PokemonBlue.gb",
+          "boxart": "https://pokerepo.karthik99999.cf/boxarts/Blue.jpg",
+          "system": "GB"
+        }
+        ]
+    },
+    {
+      "categoryname": "ROM Hacks",
+      "games": [
+        {
+          "name": "Pokémon Glazed",
+          "link": "https://www.dropbox.com/s/24izbrkb9wxzfef/PokemonGlazed.gba?dl=1",
+          "boxart": "https://pokerepo.karthik99999.cf/boxarts/Glazed.jpg",
+          "system": "GBA"
+        },
+        {
+          "name": "Pokémon Light Platinum",
+          "link": "https://www.dropbox.com/s/yh0mfxv1gli9yrf/PokemonLightPlatinum.gba?dl=1",
+          "boxart": "https://pokerepo.karthik99999.cf/boxarts/LightPlatinum.png",
+          "system": "GBA"
+        },
+        {
+          "name": "Pokémon Flora Sky (NOT WORKING)",
+          "link": "https://www.dropbox.com/s/0xsp25fkqi17dqf/PokemonFloraSky.gba?dl=1",
+          "boxart": "https://pokerepo.karthik99999.cf/boxarts/FloraSky.png",
+          "system": "GBA"
+        },
+        {
+          "name": "Pokémon Victory Fire",
+          "link": "https://pokerepo.karthik99999.cf/roms/PokemonVictoryFire.gba",
+          "boxart": "https://pokerepo.karthik99999.cf/boxarts/VictoryFire.jpg",
+          "system": "GBA"
+        },
+        {
+          "name": "Pokémon Dark Rising",
+          "link": "https://pokerepo.karthik99999.cf/roms/PokemonDarkRising.gba",
+          "boxart": "https://pokerepo.karthik99999.cf/boxarts/DarkRising.png",
+          "system": "GBA"
+        },
+        {
+          "name": "Pokémon Dark Rising 2",
+          "link": "https://pokerepo.karthik99999.cf/roms/PokemonDarkRising2.gba",
+          "boxart": "https://pokerepo.karthik99999.cf/boxarts/DarkRising2.png",
+          "system": "GBA"
+        },
+        {
+          "name": "Pokémon Ultra Shiny Gold Sigma",
+          "link": "https://pokerepo.karthik99999.cf/roms/PokemonUltraShinyGoldSigma.gba",
+          "boxart": "https://pokerepo.karthik99999.cf/boxarts/UltraShinyGoldSigma.jpeg",
+          "system": "GBA"
+        },
+	{
+          "name": "Moémon Fire Red",
+          "link": "https://pokerepo.karthik99999.cf/roms/MoemonFireRed.gba",
+          "boxart": "https://pokerepo.karthik99999.cf/boxarts/MoemonFireRed.jpg",
+          "system": "GBA"
+        },
+	{
+          "name": "Moémon Emerald",
+          "link": "https://pokerepo.karthik99999.cf/roms/MoemonEmerald.gba",
+          "boxart": "https://pokerepo.karthik99999.cf/boxarts/MoemonEmerald.jpg",
+          "system": "GBA"
+        }
+      ]
+    }
+  ]
+}
