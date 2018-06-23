@@ -1,149 +1,189 @@
+By using JSONLint.com you accept our use of cookies and agree to our privacy policy.
+Got it!
+JSONJSONLint - The JSON Validator
+More Developer Tools
+Try the New Pro
+ 
+108
+                    "link": "https://pokerepo.cf/roms/PokemonVictoryFire.gba",
+109
+                    "boxart": "https://pokerepo.cf/boxarts/VictoryFire.jpg",
+110
+                    "system": "GBA"
+111
+                },
+112
+                {
+113
+                    "name": "Pokémon Dark Rising",
+114
+                    "link": "https://pokerepo.cf/roms/PokemonDarkRising.gba",
+115
+                    "boxart": "https://pokerepo.cf/boxarts/DarkRising.png",
+116
+                    "system": "GBA"
+117
+                },
+118
+                {
+119
+                    "name": "Pokémon Dark Rising 2",
+120
+                    "link": "https://pokerepo.cf/roms/PokemonDarkRising2.gba",
+121
+                    "boxart": "https://pokerepo.cf/boxarts/DarkRising2.png",
+122
+                    "system": "GBA"
+123
+                },
+124
+                {
+125
+                    "name": "Pokémon Ultra Shiny Gold Sigma",
+126
+                    "link": "https://pokerepo.cf/roms/PokemonUltraShinyGoldSigma.gba",
 {
-  "reponame": "Pokérepo",
-  "repologo": "https://pokerepo.cf/favicon/android-chrome-256x256.png",
-  "repoauthor": "Karthik99999",
-  "repodesc": "All of your favorite Pokemon games & ROM hacks in one place! Go to pokerepo.cf for things about the repo.",
-  "categories": [
-    {
-      "categoryname": "GBA",
-      "games": [
-        {
-          "name": "Pokémon Fire Red",
-          "link": "https://pokerepo.cf/roms/PokemonFireRed.gba",
-          "boxart": "https://pokerepo.cf/boxarts/FireRed.png",
-          "system": "GBA"
-        },
-        {
-          "name": "Pokémon Leaf Green",
-          "link": "https://pokerepo.cf/roms/PokemonLeafGreen.gba",
-          "boxart": "https://pokerepo.cf/boxarts/LeafGreen.jpeg",
-          "system": "GBA"
-        },
-        {
-          "name": "Pokémon Ruby",
-          "link": "https://pokerepo.cf/roms/PokemonRuby.gba",
-          "boxart": "https://pokerepo.cf/boxarts/Ruby.jpeg",
-          "system": "GBA"
-        },
-        {
-          "name": "Pokémon Sapphire",
-          "link": "https://pokerepo.cf/roms/PokemonSapphire.gba",
-          "boxart": "https://pokerepo.cf/boxarts/Sapphire.jpeg",
-          "system": "GBA"
-        },
-        {
-          "name": "Pokémon Emerald",
-          "link": "https://pokerepo.cf/roms/PokemonEmerald.gba",
-          "boxart": "https://pokerepo.cf/boxarts/Emerald.jpg",
-          "system": "GBA"
-        },
-        {
-          "name": "Pokémon Mystery Dungeon: Red Rescue Team",
-          "link": "https://www.dropbox.com/s/35drtkwffhrs3zk/PokemonMysteryDungeonRedRescueTeam.gba?dl=1",
-          "boxart": "https://pokerepo.cf/boxarts/RedRescueTeam.jpg",
-          "system": "GBA"
-        }
-        ]
-    },
-    {
-      "categoryname": "GBC/GB",
-      "games": [
-        {
-          "name": "Pokémon Silver",
-          "link": "https://pokerepo.cf/roms/PokemonSilver.gbc",
-          "boxart": "https://pokerepo.cf/boxarts/Silver.jpg",
-          "system": "GBC"
-        },
-        {
-          "name": "Pokémon Gold",
-          "link": "https://pokerepo.cf/roms/PokemonGold.gbc",
-          "boxart": "https://pokerepo.cf/boxarts/Gold.jpg",
-          "system": "GBC"
-        },
-        {
-          "name": "Pokémon Crystal",
-          "link": "https://pokerepo.cf/roms/PokemonCrystal.gbc",
-          "boxart": "https://pokerepo.cf/boxarts/Crystal.jpg",
-          "system": "GBC"
-        },
-        {
-          "name": "Pokémon Yellow",
-          "link": "https://pokerepo.cf/roms/PokemonYellow.gbc",
-          "boxart": "https://pokerepo.cf/boxarts/Yellow.jpg",
-          "system": "GBC"
-        },
-        {
-          "name": "Pokémon Red",
-          "link": "https://pokerepo.cf/roms/PokemonRed.gb",
-          "boxart": "https://pokerepo.cf/boxarts/Red.jpg",
-          "system": "GB"
-        },
-        {
-          "name": "Pokémon Blue",
-          "link": "https://pokerepo.cf/roms/PokemonBlue.gb",
-          "boxart": "https://pokerepo.cf/boxarts/Blue.jpg",
-          "system": "GB"
-        }
-        ]
-    },
-    {
-      "categoryname": "ROM Hacks",
-      "games": [
-        {
-          "name": "Pokémon Glazed",
-          "link": "https://www.dropbox.com/s/24izbrkb9wxzfef/PokemonGlazed.gba?dl=1",
-          "boxart": "https://pokerepo.cf/boxarts/Glazed.jpg",
-          "system": "GBA"
-        },
-        {
-          "name": "Pokémon Light Platinum",
-          "link": "https://www.dropbox.com/s/yh0mfxv1gli9yrf/PokemonLightPlatinum.gba?dl=1",
-          "boxart": "https://pokerepo.cf/boxarts/LightPlatinum.png",
-          "system": "GBA"
-        },
-        {
-          "name": "Pokémon Flora Sky (NOT WORKING)",
-          "link": "https://www.dropbox.com/s/0xsp25fkqi17dqf/PokemonFloraSky.gba?dl=1",
-          "boxart": "https://pokerepo.cf/boxarts/FloraSky.png",
-          "system": "GBA"
-        },
-        {
-          "name": "Pokémon Victory Fire",
-          "link": "https://pokerepo.cf/roms/PokemonVictoryFire.gba",
-          "boxart": "https://pokerepo.cf/boxarts/VictoryFire.jpg",
-          "system": "GBA"
-        },
-        {
-          "name": "Pokémon Dark Rising",
-          "link": "https://pokerepo.cf/roms/PokemonDarkRising.gba",
-          "boxart": "https://pokerepo.cf/boxarts/DarkRising.png",
-          "system": "GBA"
-        },
-        {
-          "name": "Pokémon Dark Rising 2",
-          "link": "https://pokerepo.cf/roms/PokemonDarkRising2.gba",
-          "boxart": "https://pokerepo.cf/boxarts/DarkRising2.png",
-          "system": "GBA"
-        },
-        {
-          "name": "Pokémon Ultra Shiny Gold Sigma",
-          "link": "https://pokerepo.cf/roms/PokemonUltraShinyGoldSigma.gba",
-          "boxart": "https://pokerepo.cf/boxarts/UltraShinyGoldSigma.jpeg",
-          "system": "GBA"
-        },
--	      {
--          "name": "Moémon Fire Red",
--          "link": "https://pokerepo.cf/roms/MoemonFireRed.gba",
--          "boxart": "https://pokerepo.cf/boxarts/MoemonFireRed.jpg",
--          "system": "GBA"
--       },
--	      {
--          "name": "Moémon Emerald",
--          "link": "https://pokerepo.cf/roms/MoemonEmerald.gba",
--          "boxart": "https://pokerepo.cf/boxarts/MoemonEmerald.jpg",
--          "system": "GBA"
-        }
-      ]
-    }
-  ]
+	"reponame": "Pokérepo",
+	"repologo": "https://pokerepo.cf/favicon/android-chrome-256x256.png",
+	"repoauthor": "Karthik99999",
+	"repodesc": "All of your favorite Pokemon games & ROM hacks in one place! Go to pokerepo.cf for things about the repo.",
+	"categories": [{
+			"categoryname": "GBA",
+			"games": [{
+					"name": "Pokémon Fire Red",
+					"link": "https://pokerepo.cf/roms/PokemonFireRed.gba",
+					"boxart": "https://pokerepo.cf/boxarts/FireRed.png",
+					"system": "GBA"
+				},
+				{
+					"name": "Pokémon Leaf Green",
+					"link": "https://pokerepo.cf/roms/PokemonLeafGreen.gba",
+					"boxart": "https://pokerepo.cf/boxarts/LeafGreen.jpeg",
+					"system": "GBA"
+				},
+				{
+					"name": "Pokémon Ruby",
+					"link": "https://pokerepo.cf/roms/PokemonRuby.gba",
+					"boxart": "https://pokerepo.cf/boxarts/Ruby.jpeg",
+					"system": "GBA"
+				},
+				{
+					"name": "Pokémon Sapphire",
+					"link": "https://pokerepo.cf/roms/PokemonSapphire.gba",
+					"boxart": "https://pokerepo.cf/boxarts/Sapphire.jpeg",
+					"system": "GBA"
+				},
+				{
+					"name": "Pokémon Emerald",
+					"link": "https://pokerepo.cf/roms/PokemonEmerald.gba",
+					"boxart": "https://pokerepo.cf/boxarts/Emerald.jpg",
+					"system": "GBA"
+				},
+				{
+					"name": "Pokémon Mystery Dungeon: Red Rescue Team",
+					"link": "https://www.dropbox.com/s/35drtkwffhrs3zk/PokemonMysteryDungeonRedRescueTeam.gba?dl=1",
+					"boxart": "https://pokerepo.cf/boxarts/RedRescueTeam.jpg",
+					"system": "GBA"
+				}
+			]
+		},
+		{
+			"categoryname": "GBC/GB",
+			"games": [{
+					"name": "Pokémon Silver",
+					"link": "https://pokerepo.cf/roms/PokemonSilver.gbc",
+					"boxart": "https://pokerepo.cf/boxarts/Silver.jpg",
+					"system": "GBC"
+				},
+				{
+					"name": "Pokémon Gold",
+					"link": "https://pokerepo.cf/roms/PokemonGold.gbc",
+					"boxart": "https://pokerepo.cf/boxarts/Gold.jpg",
+					"system": "GBC"
+				},
+				{
+					"name": "Pokémon Crystal",
+					"link": "https://pokerepo.cf/roms/PokemonCrystal.gbc",
+					"boxart": "https://pokerepo.cf/boxarts/Crystal.jpg",
+					"system": "GBC"
+				},
+				{
+					"name": "Pokémon Yellow",
+					"link": "https://pokerepo.cf/roms/PokemonYellow.gbc",
+					"boxart": "https://pokerepo.cf/boxarts/Yellow.jpg",
+					"system": "GBC"
+				},
+				{
+					"name": "Pokémon Red",
+					"link": "https://pokerepo.cf/roms/PokemonRed.gb",
+					"boxart": "https://pokerepo.cf/boxarts/Red.jpg",
+					"system": "GB"
+				},
+				{
+					"name": "Pokémon Blue",
+					"link": "https://pokerepo.cf/roms/PokemonBlue.gb",
+					"boxart": "https://pokerepo.cf/boxarts/Blue.jpg",
+					"system": "GB"
+				}
+			]
+		},
+		{
+			"categoryname": "ROM Hacks",
+			"games": [{
+					"name": "Pokémon Glazed",
+					"link": "https://www.dropbox.com/s/24izbrkb9wxzfef/PokemonGlazed.gba?dl=1",
+					"boxart": "https://pokerepo.cf/boxarts/Glazed.jpg",
+					"system": "GBA"
+				},
+				{
+					"name": "Pokémon Light Platinum",
+					"link": "https://www.dropbox.com/s/yh0mfxv1gli9yrf/PokemonLightPlatinum.gba?dl=1",
+					"boxart": "https://pokerepo.cf/boxarts/LightPlatinum.png",
+					"system": "GBA"
+				},
+				{
+					"name": "Pokémon Flora Sky (NOT WORKING)",
+					"link": "https://www.dropbox.com/s/0xsp25fkqi17dqf/PokemonFloraSky.gba?dl=1",
+					"boxart": "https://pokerepo.cf/boxarts/FloraSky.png",
+					"system": "GBA"
+				},
+				{
+					"name": "Pokémon Victory Fire",
+					"link": "https://pokerepo.cf/roms/PokemonVictoryFire.gba",
+					"boxart": "https://pokerepo.cf/boxarts/VictoryFire.jpg",
+					"system": "GBA"
+				},
+				{
+					"name": "Pokémon Dark Rising",
+					"link": "https://pokerepo.cf/roms/PokemonDarkRising.gba",
+					"boxart": "https://pokerepo.cf/boxarts/DarkRising.png",
+					"system": "GBA"
+				},
+				{
+					"name": "Pokémon Dark Rising 2",
+					"link": "https://pokerepo.cf/roms/PokemonDarkRising2.gba",
+					"boxart": "https://pokerepo.cf/boxarts/DarkRising2.png",
+					"system": "GBA"
+				},
+				{
+					"name": "Pokémon Ultra Shiny Gold Sigma",
+					"link": "https://pokerepo.cf/roms/PokemonUltraShinyGoldSigma.gba",
+					"boxart": "https://pokerepo.cf/boxarts/UltraShinyGoldSigma.jpeg",
+					"system": "GBA"
+				},
+				{
+					"name": "Moémon Fire Red",
+					"link": "https://pokerepo.cf/roms/MoemonFireRed.gba",
+					"boxart": "https://pokerepo.cf/boxarts/MoemonFireRed.jpg",
+					"system": "GBA"
+				},
+				{
+					"name": "Moémon Emerald",
+					"link": "https://pokerepo.cf/roms/MoemonEmerald.gba",
+					"boxart": "https://pokerepo.cf/boxarts/MoemonEmerald.jpg",
+					"system": "GBA"
+				}
+			]
+		}
+	]
 }
