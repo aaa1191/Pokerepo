@@ -130,6 +130,18 @@
           "link": "https://pokerepo.cf/roms/PokemonUltraShinyGoldSigma.gba",
           "boxart": "https://pokerepo.cf/boxarts/UltraShinyGoldSigma.jpeg",
           "system": "GBA"
+        },
+-	      {
+-          "name": "Moémon Fire Red",
+-          "link": "https://pokerepo.cf/roms/MoemonFireRed.gba",
+-          "boxart": "https://pokerepo.cf/boxarts/MoemonFireRed.jpg",
+-          "system": "GBA"
+-       },
+-	      {
+-          "name": "Moémon Emerald",
+-          "link": "https://pokerepo.cf/roms/MoemonEmerald.gba",
+-          "boxart": "https://pokerepo.cf/boxarts/MoemonEmerald.jpg",
+-          "system": "GBA"
         }
       ]
     }
