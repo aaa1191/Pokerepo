@@ -125,12 +125,12 @@
 				"system": "GBA",
 				"boxart": "https://karthik99999.github.io/Pokerepo/boxarts/UltraShinyGoldSigma.jpeg"
 			},
-      {
-        "name": "Pokémon Gaia",
-        "link": "https://karthik99999.github.io/Pokerepo/roms/PokemonGaia.gba",
-        "system": "GBA",
-        "boxart": "https://karthik99999.github.io/Pokerepo/boxarts/Gaia.jpeg"
-      }
+		      	{
+				"name": "Pokémon Gaia",
+				"link": "https://karthik99999.github.io/Pokerepo/roms/PokemonGaia.gba",
+				"system": "GBA",
+				"boxart": "https://karthik99999.github.io/Pokerepo/boxarts/Gaia.jpeg"
+      			},
 			{
 				"name": "Moémon Fire Red",
 				"link": "https://karthik99999.github.io/Pokerepo/roms/MoemonFireRed.gba",
